@@ -18,5 +18,4 @@ func main() {
 	fmt.Println(Sqrt(3))
 	fmt.Println(Sqrt(4))
 	fmt.Println(Sqrt(5))
-
 }
